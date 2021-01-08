@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Among Us Web"
+run/main_scene="res://scenes/main-menu.tscn"
 config/icon="res://icon.png"
 
 [display]
